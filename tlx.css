@@ -5,6 +5,13 @@
     height: 80px !important;
 }
 
+#nasa-tlx .slider-container:nth-of-type(5) .track {
+    background-image: url(https://github.com/victoria-hurd/qualtrics-tlx/blob/main/tlx-scale-performance.png?raw=true);
+    background-size: 770px 80px !important;
+    background-repeat: no-repeat;
+    height: 80px !important;
+}
+
 #nasa-tlx .handle {
     top: 15px !important;
 }
